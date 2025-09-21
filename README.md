@@ -1,4 +1,4 @@
-# curso-git
+# Aprendiendo GIT
 Aprendiendo Git
 
 
